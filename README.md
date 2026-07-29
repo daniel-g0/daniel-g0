@@ -11,17 +11,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel-g0&theme=tokyonight" height="155" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniel-g0&theme=tokyonight" height="155" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=daniel-g0&theme=tokyonight-duo&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-g0&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=bb9af7&hide_border=true" />
-
 ---
 
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=daniel-g0&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5)](https://github.com/daniel-g0/dotfiles)
+[![dotfiles](https://img.shields.io/badge/daniel--g0%2Fdotfiles-NixOS%20·%20Hyprland%20·%20Tokyo%20Night-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-g0/dotfiles)
+[![stars](https://img.shields.io/github/stars/daniel-g0/dotfiles?style=for-the-badge&color=bb9af7&logo=github&logoColor=white)](https://github.com/daniel-g0/dotfiles/stargazers)
 
 ---
 
