@@ -38,7 +38,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/daniel-g0/dotfiles/main/screenshots/showcase.png" width="680" />
+<img src="https://media.githubusercontent.com/media/daniel-g0/dotfiles/main/screenshots/showcase.png" width="680" />
 
 <br/><br/>
 
