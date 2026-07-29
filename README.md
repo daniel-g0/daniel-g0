@@ -1,4 +1,8 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors" />
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors)
+
+</div>
 
 <div align="center">
 
