@@ -1,7 +1,7 @@
 <div align="center">
 
 [![daniel](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=5000&pause=50000&color=7AA2F7&center=true&vCenter=true&width=400&height=72&lines=daniel&loop=false)](https://github.com/daniel-g0)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=6000&pause=4000&color=BB9AF7&center=true&vCenter=true&width=580&height=40&lines=make+it+work.+make+it+right.+make+it+fast.;talk+is+cheap.+show+me+the+code.;first%2C+solve+the+problem.+then%2C+write+the+code.;the+best+code+is+no+code+at+all.;it+works+on+my+machine.;weeks+of+coding+can+save+hours+of+planning.)](https://github.com/daniel-g0)
+<img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b26&borderColor=%2324283b&qColor=%237aa2f7&aColor=%23bb9af7&codeColor=%239ece6a" />
 
 ![](https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors)
 
