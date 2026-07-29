@@ -1,9 +1,9 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors" />
+
 <div align="center">
 
 [![daniel](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=5000&pause=50000&color=7AA2F7&center=true&vCenter=true&width=400&height=72&lines=daniel&loop=false)](https://github.com/daniel-g0)
 [![jokes](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=6000&pause=4000&color=BB9AF7&center=true&vCenter=true&width=620&height=36&lines=light+attracts+bugs+%E2%80%94+that%27s+why+we+use+dark+mode.;why+did+the+dev+go+broke%3F+used+up+all+his+cache.;there+are+10+types+of+people%3A+those+who+get+binary%2C+and+those+who+don%27t.;why+do+Java+devs+wear+glasses%3F+they+don%27t+C%23.;a+SQL+query+walks+into+a+bar+and+asks+two+tables+to+join+it.;the+code+is+compiling.)](https://github.com/daniel-g0)
-
-![](https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors)
 
 ---
 
