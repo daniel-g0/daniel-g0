@@ -1,7 +1,7 @@
 <div align="center">
 
 [![daniel](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=5000&pause=50000&color=7AA2F7&center=true&vCenter=true&width=400&height=72&lines=daniel&loop=false)](https://github.com/daniel-g0)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=520&height=40&lines=full-stack+dev;iot+-%3E+backend+-%3E+frontend+-%3E+shipped;builds+the+whole+thing)](https://github.com/daniel-g0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=6000&pause=4000&color=BB9AF7&center=true&vCenter=true&width=580&height=40&lines=make+it+work.+make+it+right.+make+it+fast.;talk+is+cheap.+show+me+the+code.;first%2C+solve+the+problem.+then%2C+write+the+code.;the+best+code+is+no+code+at+all.;it+works+on+my+machine.;weeks+of+coding+can+save+hours+of+planning.)](https://github.com/daniel-g0)
 
 ![](https://komarev.com/ghpvc/?username=daniel-g0&color=bb9af7&style=flat-square&label=visitors)
 
@@ -18,10 +18,6 @@
 
 [![dotfiles](https://img.shields.io/badge/daniel--g0%2Fdotfiles-NixOS%20·%20Hyprland%20·%20Tokyo%20Night-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-g0/dotfiles)
 [![stars](https://img.shields.io/github/stars/daniel-g0/dotfiles?style=for-the-badge&color=bb9af7&logo=github&logoColor=white)](https://github.com/daniel-g0/dotfiles/stargazers)
-
----
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b26&borderColor=%2324283b&qColor=%237aa2f7&aColor=%23bb9af7&codeColor=%239ece6a" />
 
 ---
 
