@@ -27,6 +27,8 @@
 
 ---
 
+**tools i use**
+
 [![skillicons](https://skillicons.dev/icons?i=python,rust,django,fastapi,postgres,redis,docker,kubernetes,ansible,ts,angular,tailwind,nginx,linux,neovim,git&theme=dark&perline=8)](https://github.com/daniel-g0)
 
 ---
